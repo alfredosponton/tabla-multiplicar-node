@@ -1,0 +1,15 @@
+{
+  "name": "02-base-node",
+  "version": "0.0.1",
+  "description": "Es una tabla de multiplicar con creación de archivo txt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
